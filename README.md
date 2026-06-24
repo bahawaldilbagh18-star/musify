@@ -1,21 +1,20 @@
-# musify
-🎵 Music streaming web app built with React, TypeScript, YouTube Data API v3, and Supabase
 # 🎵 Musify
 
-Musify is a Spotify-style music streaming web application built with React, TypeScript, YouTube Data API v3, and Supabase.
-
-🌐 Live App:
+### Live App
 https://musify-198541463114.asia-southeast1.run.app
+
+Musify is a Spotify-style music streaming web application built with React, TypeScript, Supabase, YouTube Data API v3, Google AI Studio, and Claude AI assistance.
 
 ## Features
 
-- Real-time YouTube music search
-- Audio playback
-- User authentication
-- Cloud-synced liked songs
-- Mobile-friendly design
-- Progressive Web App (PWA)
-- Google Cloud Run deployment
+- 🔍 Search songs from YouTube
+- 🎵 Audio playback
+- ❤️ Like and save songs
+- 🔐 User authentication
+- ☁️ Cloud-synced library
+- 📱 Mobile responsive
+- 📲 Installable as Android PWA
+- 🚀 Deployed on Google Cloud Run
 
 ## Tech Stack
 
@@ -24,20 +23,20 @@ https://musify-198541463114.asia-southeast1.run.app
 - Supabase
 - YouTube Data API v3
 - Google Cloud Run
-
-## AI-Assisted Development
-
-This project was developed with assistance from:
-
-- Claude AI
 - Google AI Studio (Gemini)
-
-AI tools were used to help with development, debugging, UI improvements, and deployment.
+- Claude AI
+- PWA
 
 ## Live Demo
 
 https://musify-198541463114.asia-southeast1.run.app
 
+## Screenshots
+
+Add screenshots below after uploading them.
+
 ## Developer
 
 Bahawal Dilbagh Hashmi
+
+ICS Student | App Developer | Future AI Engineer
