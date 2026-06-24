@@ -33,7 +33,20 @@ https://musify-198541463114.asia-southeast1.run.app
 
 ## Screenshots
 
-Add screenshots below after uploading them.
+### Home Screen
+![Home](screenshots/home.png)
+
+### Search Screen
+![Search](screenshots/search.png)
+
+### Now Playing
+![Player](screenshots/player.png)
+
+### Library
+![Library](screenshots/library.png)
+
+### Login Screen
+![Login](screenshots/login.png)
 
 ## Developer
 
